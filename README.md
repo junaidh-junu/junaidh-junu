@@ -112,7 +112,7 @@ Built a smart security mat with ESP32 + pressure sensors + facial recognition. I
 [![Portfolio](https://img.shields.io/badge/🌐_junaidh.me-000?style=for-the-badge)](https://junaidh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junaidhhaneefa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidhhaneefa)
 [![GitHub](https://img.shields.io/badge/GitHub-junaidh--junu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junaidh-junu)
-[![Instagram](https://img.shields.io/badge/Instagram-myself__junu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myself_junu)
+[![Instagram](https://img.shields.io/badge/Instagram-myself__junu_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myself_junu_)
 [![Facebook](https://img.shields.io/badge/Facebook-junaidh.haneefa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/junaidh%20haneefa)
 [![Email](https://img.shields.io/badge/Email-junaidhhaneef.m@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidhhaneef.m@gmail.com)
 
